@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Sunilkpraja/gif3.gif"/>
+<img align="center" src="https://github.com/Sunilkpraja/Sunilkpraja/blob/main/gif3.gif"/>
 
 # Hello, I am Sunilkumar Prajapati 👋
 

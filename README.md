@@ -4,7 +4,7 @@
 
 I have completed my graduation in B.E. Computer science and engineering in 2019. After completing graduation I have joined a company name ShawMan software Pvt. Ltd. in July 2019 as a Software support engineer. I had work for 1.3 years in this company.
 
-Learning Data science from past few months and now I'm looking job where I can employ as a Data Scientist, Data Analysis, Machine learning, knowledge and skill to contribute to the growth of the organization and personal growth in an effective manner.[LinkedIn](https://www.linkedin.com/in/sunilkumarprajapati/)
+Learning Data science from past few months and now I'm looking job where I can employ as a Data Scientist, Data Analysis, Machine learning, knowledge and skill to contribute to the growth of the organization and personal growth in an effective manner.
 
 - 🔭 I have Experiance of Software Support Engineer for 1.3 years.
 - 🌱 I’m currently learning Deep learning

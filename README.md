@@ -17,7 +17,7 @@ Learning Data science from past few months and now I'm looking job where I can e
 
 
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilkumarprajapati/)
-- [[Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sunilkprajapati13)
+- [![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sunilkprajapati13)
 - [Kaggle](https://www.kaggle.com/sunilkprajapati13)
 
 

@@ -15,7 +15,8 @@ Learning Data science from past few months and now I'm looking job where I can e
 
 ## Find me around the web 🌍
 
-- [LinkedIn](https://www.linkedin.com/in/sunilkumarprajapati/)
+
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilkumarprajapati/)
 - [Kaggle](https://www.kaggle.com/sunilkprajapati13)
 
 

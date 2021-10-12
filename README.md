@@ -1,4 +1,4 @@
-<h2> # Hey there!, I am Sunilkumar Prajapati. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> # Hey there!, I am Sunilkumar Prajapati. <img src="https://github.com/Sunilkpraja/Sunilkpraja/blob/main/Hi.gif" width="25"></h2>
 
 <img align="center" src="https://github.com/Sunilkpraja/Sunilkpraja/blob/main/gif3.gif" width="500"/>
 

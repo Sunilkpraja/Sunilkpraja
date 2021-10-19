@@ -12,6 +12,7 @@ Learning Data science from past few months and now I'm looking job where I can e
 - ✍️ Experience in SQL
 - 💬 Ask me about Data Science.
 - ⚡ Fun fact: I love to code.
+- 📝 I'm Currently learning Deep Learning( Computer vision, face recognition, NLP)
 - 📫 How to reach me: [sunilkumar.prajapati9689@gmail.com](mailto:sunilkumar.prajapati9689@gmail.com)
 
 

@@ -8,8 +8,8 @@ Learning Data science from past few months and now I'm looking job where I can e
 
 - 🔭 I have Experiance of Software Support Engineer for 1.3 years.
 - 🌱 I’m currently learning Deep learning.
-- 🤔 I’m looking job as Data Scientist.
-- ✍️ Experience in SQL
+- 🤔 I’m looking job for Data Scientist.
+- ✍️ Experience in MSSQL.
 - 💬 Ask me about Data Science.
 - ⚡ Fun fact: I love to code.
 - 📝 I'm Currently learning Deep Learning( Computer vision, face recognition, NLP)

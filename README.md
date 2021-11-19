@@ -7,7 +7,7 @@ I have completed my graduation in B.E. Computer science and engineering in 2019.
 Learning Data science from past few months and now I'm looking job where I can employ as a Data Scientist, Data Analysis, Machine learning, knowledge and skill to contribute to the growth of the organization and personal growth in an effective manner.
 
 - 🔭 I have Experiance of Software Support Engineer for 1.3 years.
-- 🤔 I’m looking job for Data Scientist.
+- 🤔 I’m looking job as a Data Scientist.
 - ✍️ Experience in MSSQL.
 - 💬 Ask me about Data Science.
 - ⚡ Fun fact: I love to code.

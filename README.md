@@ -23,4 +23,4 @@ After 1.3 years as a Software Support Engineer, I am considering a career change
 - [![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sunilkprajapati13)
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sunilkumar-prajapati9689/<article-index>/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sunilkumar-prajapati9689/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sunilkumar-prajapati9689/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sunilkumar-prajapati9689/0" alt="Recent Article 0"> 

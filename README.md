@@ -4,7 +4,7 @@
 
 I have completed my graduation in B.E. Computer science and engineering in 2019. 
 
-Learning Data science from past few months and now I'm looking job where I can employ as a Data Scientist, Data Analysis, Machine learning, knowledge and skill to contribute to the growth of the organization and personal growth in an effective manner.
+After 1.3 years as a Software Support Engineer, I am considering a career change to Data Scientist. Having a keen interest in raw data, statistics, and communication, I can establish machine learning through the deployment of machine learning models, and construct dashboards that tell a story.
 
 - 🔭 I have Experiance of Software Support Engineer for 1.3 years.
 - 🤔 I’m looking job as a Data Scientist.

@@ -4,7 +4,7 @@
 
 I have completed my graduation in B.E. Computer science and engineering in 2019. 
 
-After 1.3 years as a Software Support Engineer, I am considering a career change to Data Scientist. Having a keen interest in raw data, statistics, and communication, I can establish machine learning through the deployment of machine learning models, and construct dashboards that tell a story.
+Experianced 1.3 years as a Software Support Engineer, I am considering a career change to Data Scientist. Having a keen interest in raw data, statistics, and communication, I can establish machine learning through the deployment of machine learning models, and construct dashboards that tell a story.
 
 - 💬 Ask me about Data Science.
 - ⚡ Fun fact: I love to code.

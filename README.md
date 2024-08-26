@@ -2,12 +2,12 @@
 
 <img align="right" src="https://github.com/Sunilkpraja/Sunilkpraja/blob/main/gif3.gif" width="350"/>
 
-I have completed my graduation in B.E. Computer science and engineering in 2019. 
+I am currently working as a Power BI Developer in circulants software since 2022. 
 
-Experianced 3.5 years as a IT Professional , I am considering a career change to Power BI Developer. Having a keen interest in raw data, statistics, and communication, I can establish machine learning through the deployment of machine learning models, and construct dashboards that tell a story.
+I have 3.4 years of experience as an IT professional, and I am considering a career change to Power BI Developer. Having a keen interest in raw data, statistics, and communication, I can establish machine learning by deploying machine learning models and constructing dashboards that tell a story.
 
 - 💬 Ask me about Data Analyst.
-- ⚡ Fun fact: I love to code.
+- ⚡ Fun fact: I like to present tabular data in chart/visual form using Power BI. 
 - 📝 I'm Currently learning M Query.
 - 📫 How to reach me: [sunilkumar.prajapati9689@gmail.com](mailto:sunilkumar.prajapati9689@gmail.com)
 

@@ -2,13 +2,13 @@
 
 <img align="right" src="https://github.com/Sunilkpraja/Sunilkpraja/blob/main/gif3.gif" width="350"/>
 
-I am currently working as a Power BI Developer in Circulants Software Pvt. Ltd. since 2022. 
+👨‍💻 Power BI Developer at Circulants Software Pvt. Ltd. | Since 2022 
 
-I have 3.4 years of experience as an IT professional, and I am considering a career change to Power BI Developer. Having a keen interest in raw data, statistics, and communication, I can establish machine learning by deploying machine learning models and constructing dashboards that tell a story.
+With 3.4 years of experience as an IT professional, I've transitioned into the role of a Power BI Developer, driven by my passion for data, statistics, and storytelling. My expertise lies in transforming raw data into insightful visualizations and dashboards, and I’m enthusiastic about deploying machine learning models to enhance data-driven decision-making.
 
-- 💬 Ask me about Data Analyst.
-- ⚡ Fun fact: I like to present tabular data in chart/visual form using Power BI. 
-- 📝 I'm Currently learning M Query.
+- 💬 Ask me about Data Analyst, Power BI.
+- ⚡ Fun fact: I love turning tabular data into engaging visual stories using Power BI. 
+- 📝 Currently Learning: M Query.
 - 📫 How to reach me: [sunilkumar.prajapati9689@gmail.com](mailto:sunilkumar.prajapati9689@gmail.com)
 
 

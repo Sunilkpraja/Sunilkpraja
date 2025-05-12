@@ -4,7 +4,7 @@
 
 👨‍💻 Power BI Developer at ScatterPie Analytics
 
-With 3.4 years of experience as an IT professional, I've transitioned into the role of a Power BI Developer, driven by my passion for data, statistics, and storytelling. My expertise lies in transforming raw data into insightful visualizations and dashboards, and I’m enthusiastic about deploying machine learning models to enhance data-driven decision-making.
+With 4.2 years of experience as an IT professional, I've transitioned into the role of a Power BI Developer, driven by my passion for data, statistics, and storytelling. My expertise lies in transforming raw data into insightful visualizations and dashboards, and I’m enthusiastic about deploying machine learning models to enhance data-driven decision-making.
 
 - 💬 Ask me about Data Analyst, Power BI.
 - ⚡ Fun fact: I love turning tabular data into engaging visual stories using Power BI. 

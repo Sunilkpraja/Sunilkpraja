@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Sunilkpraja/Sunilkpraja/blob/main/gif3.gif" width="350"/>
 
-👨‍💻 Power BI Developer at Circulants Software Pvt. Ltd. | Since 2022 
+👨‍💻 Power BI Developer at ScatterPie Analytics
 
 With 3.4 years of experience as an IT professional, I've transitioned into the role of a Power BI Developer, driven by my passion for data, statistics, and storytelling. My expertise lies in transforming raw data into insightful visualizations and dashboards, and I’m enthusiastic about deploying machine learning models to enhance data-driven decision-making.
 
